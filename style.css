@@ -269,7 +269,17 @@ hr {
 	font-size: 28px;
 	color: #FFFFFF;
 }
-
+.vendors {
+	text-transform: uppercase;
+	color: #FFFFFF;
+}
+.notes {
+	text-transform: uppercase;
+	font-size: 12px;
+	margin-bottom: 25px;
+	padding-bottom: 10px;
+	border-bottom: #203253 dashed 1px;
+}
 .post .date {
 	display: inline-block;
 	margin: 0px;
