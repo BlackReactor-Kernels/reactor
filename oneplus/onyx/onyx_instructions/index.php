@@ -20,17 +20,10 @@ Released   : 20110707
 </head>
 <body>
 <div id="header">
-	<div id="menu">
-		<ul>
-			<li class="active"><a href="#">Homepage</a></li>
-			<li><a target="_blank" href="downloads.html">Downloads</a></li>
-			<li><a target="_blank" href="instructions.html">Instructions</a></li>
-			<li><a target="_blank" href="contacts.html">Contact</a></li>
-		</ul>
-	</div>
+	 <?php include('../../menu.php') ?>
 	<!-- end #menu -->
 	<div id="logo">
-		<h1><a href="downloads.html">Downloads</a></h1>
+		<h2><a href=".">Instructions to flash on OnePlus X (onyx)</a></h2>
 	</div>
 	<hr />
 </div>
@@ -44,18 +37,18 @@ Released   : 20110707
 				<div class="post">
 					<p class="notes">OnePlus X (onyx)</p>
 					<ul>
-						<li>Stable:</li>
+						<li>Pre-Requisites:</li>
 							<ul>
-								<li>stable-0.2 - download - changelog</li>
-								<li>stable-0.1 - download - changelog</li>
+								<li>You have rooted your OnePlus X</li>
+								<li>You have read the disclaimer.</li>
 							</ul>
-						<li>Beta:</li>
+						<li>How To Flash:</li>
 							<ul>
-								<li>beta-3.8.1 - download - changelog</li>
-								<li>beta-2.5 - download - changelog</li>
-								<li>beta-1.7 - download - changelog</li>
-								<li>beta-1.5 - download - changelog</li>
-								<li>beta-1.0 - download - changelog</li>
+								<li><a target="_blank" href='../'>Download</a> The Latest kernel for the device</li>
+								 NOTE: Make Sure You clear Kernel Aduitor Data before flashing
+								<li>Reboot to TWRP</li>
+								<li>Flash The kernel zip</li>
+								<li>Reboot!</li>
 							</ul>
 					</ul>
 				</div>
@@ -73,12 +66,13 @@ Released   : 20110707
 						</div>
 					</li>
 					<li>
-						<h2>Supported Devices </h2>
+						<h2>Changelogs</h2>
 						<div id="bg1">
 							<div id="bg2">
+							<ul class="side_header">OnePlus X (onyx)</ul>
 								<ul>
-									<li><a href="#">OnePlus X (onyx)</a></li>
-									<li><a href="#">Yureka YU (tomato)</a></li>
+									<li><a target="_blank" href="../changelog_oos.html">Changelog for OOS version</a></li>
+									<li><a target="_blank" href="../changelog.html">Changelog for CM version</a></li>
 								</ul>
 							</div>
 						</div>

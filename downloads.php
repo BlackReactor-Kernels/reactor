@@ -39,7 +39,7 @@ Released   : 20110707
 					<ul class="vendors">
 					 <li>OnePlus
 						<ul class="devices">
-							<li><a href="oneplus/onyx.php">OnePlus X (onyx)</a></li>
+							<li><a href="oneplus/onyx/">OnePlus X (onyx)</a></li>
 						</ul></li>
 					 <li>YU
 					 	<ul class="devices">

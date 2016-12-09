@@ -13,7 +13,7 @@ Released   : 20110707
 <html>
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<title>BlackReactor Kernels</title>
+<title>BlackReactor Kernels< /title>
 <meta name="keywords" content="" />
 <meta name="description" content="" />
 <link href="../style.css" rel="stylesheet" type="text/css" media="screen" />
@@ -23,7 +23,7 @@ Released   : 20110707
 	 <?php include('../menu.php') ?>
 	<!-- end #menu -->
 	<div id="logo">
-		<h2><a href="onyx_instructions.php">Instructions to flash on OnePlus X (onyx)</a></h2>
+		<h1><a href=".">Downloads for OnePlus X (Onyx)</a></h1>
 	</div>
 	<hr />
 </div>
@@ -37,19 +37,24 @@ Released   : 20110707
 				<div class="post">
 					<p class="notes">OnePlus X (onyx)</p>
 					<ul>
-						<li>Pre-Requisites:</li>
+						<li>Stable:</li>
 							<ul>
-								<li>You have rooted your OnePlus X</li>
-								<li>You have read the disclaimer.</li>
+								<li>stable-0.2 - download - changelog</li>
+								<li>stable-0.1 - download - changelog</li>
 							</ul>
-						<li>How To Flash:</li>
+						<li>Beta:</li>
 							<ul>
-								<li><a target="_blank" href='onyx.php'>Download</a> The Latest kernel for the device</li>
-								 NOTE: Make Sure You clear Kernel Aduitor Data before flashing
-								<li>Reboot to TWRP</li>
-								<li>Flash The kernel zip</li>
-								<li>Reboot!</li>
+								<li>beta-3.8.1 - download - changelog</li>
+								<li>beta-2.5 - download - changelog</li>
+								<li>beta-1.7 - download - changelog</li>
+								<li>beta-1.5 - download - changelog</li>
+								<li>beta-1.0 - download - changelog</li>
 							</ul>
+					</ul>
+				</div>
+				<div class="post">
+					<ul>
+						<li><a href="onyx_instructions/">Instructions To Flash</a></li>
 					</ul>
 				</div>
 
@@ -66,13 +71,12 @@ Released   : 20110707
 						</div>
 					</li>
 					<li>
-						<h2>Changelogs</h2>
+						<h2>Supported Devices </h2>
 						<div id="bg1">
 							<div id="bg2">
-							<ul class="side_header">OnePlus X (onyx)</ul>
 								<ul>
-									<li><a target="_blank" href="changelog_oos.html">Changelog for OOS version</a></li>
-									<li><a target="_blank" href="changelog.html">Changelog for CM version</a></li>
+									<li><a href="#">OnePlus X (onyx)</a></li>
+									<li><a href="#">Yureka YU (tomato)</a></li>
 								</ul>
 							</div>
 						</div>
