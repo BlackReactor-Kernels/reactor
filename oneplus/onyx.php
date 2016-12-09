@@ -13,7 +13,7 @@ Released   : 20110707
 <html>
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<title>BlackReactor Kernels</title>
+<title>BlackReactor Kernels< /title>
 <meta name="keywords" content="" />
 <meta name="description" content="" />
 <link href="../style.css" rel="stylesheet" type="text/css" media="screen" />
@@ -23,7 +23,7 @@ Released   : 20110707
 	 <?php include('menu.php') ?>
 	<!-- end #menu -->
 	<div id="logo">
-		<h1><a href="downloads.html">Downloads</a></h1>
+		<h1><a href="onyx.php">Downloads for OnePlus X (Onyx)</a></h1>
 	</div>
 	<hr />
 </div>
@@ -50,6 +50,11 @@ Released   : 20110707
 								<li>beta-1.5 - download - changelog</li>
 								<li>beta-1.0 - download - changelog</li>
 							</ul>
+					</ul>
+				</div>
+				<div class="post">
+					<ul>
+						<li><a href="onyx_instructions.php">Instructions To Flash</a></li>
 					</ul>
 				</div>
 

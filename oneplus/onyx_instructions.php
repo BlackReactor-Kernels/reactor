@@ -16,14 +16,14 @@ Released   : 20110707
 <title>BlackReactor Kernels</title>
 <meta name="keywords" content="" />
 <meta name="description" content="" />
-<link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="../style.css" rel="stylesheet" type="text/css" media="screen" />
 </head>
 <body>
 <div id="header">
-	 <?php include('menu.php') ?>
+	 <?php include('../menu.php') ?>
 	<!-- end #menu -->
 	<div id="logo">
-		<h1><a href="downloads.php">Downloads</a></h1>
+		<h2><a href="onyx_instructions.php">Instructions to flash on OnePlus X (onyx)</a></h2>
 	</div>
 	<hr />
 </div>
@@ -35,16 +35,21 @@ Released   : 20110707
 		<div id="page-bgbtm">
 			<div id="content">
 				<div class="post">
-					<p class="notes">Select your device from the following list or from the supported devices lists</p>
-					<ul class="vendors">
-					 <li>OnePlus
-						<ul class="devices">
-							<li><a href="oneplus/onyx.php">OnePlus X (onyx)</a></li>
-						</ul></li>
-					 <li>YU
-					 	<ul class="devices">
-					 		<li><a href="yu/tomato.html">YU Yureka (tomato)</li>
-					 	</ul></li>
+					<p class="notes">OnePlus X (onyx)</p>
+					<ul>
+						<li>Pre-Requisites:</li>
+							<ul>
+								<li>You have rooted your OnePlus X</li>
+								<li>You have read the disclaimer.</li>
+							</ul>
+						<li>How To Flash:</li>
+							<ul>
+								<li><a target="_blank" href='onyx.php'>Download</a> The Latest kernel for the device</li>
+								 NOTE: Make Sure You clear Kernel Aduitor Data before flashing
+								<li>Reboot to TWRP</li>
+								<li>Flash The kernel zip</li>
+								<li>Reboot!</li>
+							</ul>
 					</ul>
 				</div>
 

@@ -229,6 +229,13 @@ hr {
 	text-transform: uppercase;
 }
 
+#logo h2 {
+	padding-top: 80px;
+	font-size: 42px;
+	color: #FFFFFF;
+	text-transform: uppercase;
+}
+
 #logo a {
 	text-decoration: none;
 	color: #FFFFFF;
