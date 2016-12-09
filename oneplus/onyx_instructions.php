@@ -66,12 +66,13 @@ Released   : 20110707
 						</div>
 					</li>
 					<li>
-						<h2>Supported Devices </h2>
+						<h2>Changelogs</h2>
 						<div id="bg1">
 							<div id="bg2">
+							<ul class="side_header">OnePlus X (onyx)</ul>
 								<ul>
-									<li><a href="#">OnePlus X (onyx)</a></li>
-									<li><a href="#">Yureka YU (tomato)</a></li>
+									<li><a target="_blank" href="changelog_oos.html">Changelog for OOS version</a></li>
+									<li><a target="_blank" href="changelog.html">Changelog for CM version</a></li>
 								</ul>
 							</div>
 						</div>

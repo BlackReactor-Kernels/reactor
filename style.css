@@ -503,3 +503,8 @@ hr {
 	padding: 10px 0px 10px 0px;
 	background: url(images/img04.jpg) no-repeat left bottom;
 }
+
+#bg2 ul {
+	text-align: center;
+	color: #FFFFFF;
+}

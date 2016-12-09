@@ -12,7 +12,7 @@
 	<!-- end #menu -->
 	<div id="logo">
 		<h1><a href="index.html">Black Reactor Kernels</a></h1>
-		<h2>by NachiketNamjoshi</h2>
+		<br>by NachiketNamjoshi</br>
 	</div>
 	<hr />
 </div>
