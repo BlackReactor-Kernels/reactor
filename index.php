@@ -1,15 +1,3 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<!--
-Design by TEMPLATED
-http://templated.co
-Released for free under the Creative Commons Attribution License
-
-Name       : Black Coffee 
-Description: A two-column, fixed-width design for 1024x768 screen resolutions.
-Version    : 1.0
-Released   : 20110707
-
--->
 <html>
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
@@ -20,17 +8,11 @@ Released   : 20110707
 </head>
 <body>
 <div id="header">
-	<div id="menu">
-		<ul>
-			<li class="active"><a href="#">Homepage</a></li>
-			<li><a target="_blank" href="downloads.html">Downloads</a></li>
-			<li><a target="_blank" href="instructions.html">Instructions</a></li>
-			<li><a target="_blank" href="contacts.html">Contact</a></li>
-		</ul>
-	</div>
+	<?php include('menu.php') ?>
 	<!-- end #menu -->
 	<div id="logo">
-		<h1><a href="downloads.html">Downloads</a></h1>
+		<h1><a href="index.html">Black Reactor Kernels</a></h1>
+		<h2>by NachiketNamjoshi</h2>
 	</div>
 	<hr />
 </div>
@@ -42,19 +24,13 @@ Released   : 20110707
 		<div id="page-bgbtm">
 			<div id="content">
 				<div class="post">
-					<p class="notes">Select your device from the following list or from the supported devices lists</p>
-					<ul class="vendors">
-					 <li>OnePlus
-						<ul class="devices">
-							<li><a href="oneplus/onyx.html">OnePlus X (onyx)</a></li>
-						</ul></li>
-					 <li>YU
-					 	<ul class="devices">
-					 		<li><a href="yu/tomato.html">YU Yureka (tomato)</li>
-					 	</ul></li>
-					</ul>
+					<p class="meta"><span class="date">Thursday, October 20, 2016</span> 1509 IST Posted by <a href="#">NachiketNamjoshi</a></p>
+					<h2 class="title"><a href="#">Welcome to Black BlackReactor Kernels </a></h2>
+					<div class="entry">
+						<p>These are <strong>Black Reactor Kernels</strong>, free, powerful Kernels by NachiketNamjoshi, released for free under the <a href="http://templated.co/license">GPL v3</a> license.
+					</div>
+					<div><a href="#" class="links">View Full Story</a></div>
 				</div>
-
 			</div>
 			<!-- end #content -->
 			<div id="sidebar">
@@ -73,7 +49,7 @@ Released   : 20110707
 							<div id="bg2">
 								<ul>
 									<li><a href="#">OnePlus X (onyx)</a></li>
-									<li><a href="#">Yureka YU (tomato)</a></li>
+									<li><a href="#">YU Yureka (tomato)</a></li>
 								</ul>
 							</div>
 						</div>
